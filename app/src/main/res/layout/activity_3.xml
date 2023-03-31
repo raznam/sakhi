@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/act3"
+    tools:context=".Activity3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Do you know what is common amongst 16th December 2012, 4th June 2017 and 14 September 2020 ? \n\nA RAPE of a girl \n\n
+1. Nirbhaya Rape Case (16th Dec,2012) \n2. Unnao Rape Case    (4th June,2017) \n3. Hathras Rape Case  (14th Sept,2020) \n\nThe number of rape cases in 2020 was 28,046, while it was 32,033 in 2019, \nthe National Crime Records Bureau's (NCRB) 'Crime in India 2021' report showed. \n\nThis project is a small step to bring these horrifying number of rape cases to complete zero
+"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+
+        />
+
+
+</LinearLayout>
